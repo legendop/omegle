@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45330329908",
+    "project_id": "omegle-fd994",
+    "firebase_url": "https://omegle-fd994-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "storage_bucket": "omegle-fd994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45330329908:android:c5bc0ecbfe165a586cb561",
+        "android_client_info": {
+          "package_name": "com.legendcoder.omegle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45330329908-1nomq0t0gsc77pqbd1m2hkchfhu3g22r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLn428JttjWfgFzEXqin7SEmqwmRu1Crk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45330329908-1nomq0t0gsc77pqbd1m2hkchfhu3g22r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

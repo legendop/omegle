@@ -1,0 +1,21 @@
+Users->Count->num //gives total queue number
+//when a users clicks start button
+	take to chat matchmaking
+	//matchmaking
+		increase count by 1
+		create a subtree under Users,//details of users and if he is online,in queue...
+		
+		check if count-1 subtree has queue or in matched or offline
+			//queue create custom matchid, set own and that user to matchid
+				take to chat activity with that matchid
+
+		check for own queue value change and take to matchid chat activity
+		
+		//on end
+		matchid
+			1->online
+			2->online
+			chat
+				1->///
+		if anyone of 1,2 offline
+			destroy matchid, take to start page 
